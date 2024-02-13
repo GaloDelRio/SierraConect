@@ -1,5 +1,5 @@
 # SierraConect
-Enlace a nuestra página web: https://a01710608.wixsite.com/sierra-connect
+Enlace al sitiio web: https://a01710608.wixsite.com/sierra-connect
 
 ## IoTree
 Un producto innovador que reimagina el proceso de recolección de datos para zonas de la Sierra Gorda.
